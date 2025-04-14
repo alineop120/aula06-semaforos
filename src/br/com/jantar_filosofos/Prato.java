@@ -1,4 +1,4 @@
-package jantar_filosofos;
+package br.com.jantar_filosofos;
 
 public class Prato {
     private int macarrao;

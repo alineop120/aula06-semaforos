@@ -1,4 +1,4 @@
-package jantar_filosofos;
+package br.com.jantar_filosofos;
 
 import java.util.ArrayList;
 import java.util.Arrays;
